@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Abby</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>About Me</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="projects.html">Projects</a>
+      <a href="blog.html">Articles</a>
+    </nav>
+  </header>
+
+  <main>
+    <p>Hi, I’m Abby. I’m a project engineer with a passion for thoughtful design, problem solving, and sharing what I learn. I built this site to document my academic journey and creative thinking along the way.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Abby</p>
+  </footer>
+</body>
+</html>
