@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Projects</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Projects</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="blog.html">Articles</a>
+    </nav>
+  </header>
+
+  <main>
+    <ul>
+      <li><strong>Senior Capstone:</strong> Designing a sustainable HVAC system for a university building.</li>
+      <li><strong>Materials Lab:</strong> Stress-testing polymer composites using ultrasonic data.</li>
+      <li><strong>Design Studio:</strong> Collaborative prototyping with 3D modeling and Arduino.</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Abby</p>
+  </footer>
+</body>
+</html>
